@@ -1,2 +1,2 @@
 javac src/main/java/*.java
-java -cp src/main/java/ Primes
+java -cp src/main/java/ Main
